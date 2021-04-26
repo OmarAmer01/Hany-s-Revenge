@@ -1,0 +1,5 @@
+To run the game from the source code:
+0. Install the latest version of UNITY 
+1.Navigate to : \Source Code\Hany's Revenge\Assets\Scenes\
+2. Open: mainMenu.unity
+3. Start Playing

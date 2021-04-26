@@ -1,0 +1,10 @@
+Assets: 
+Arabic Support for unity UI : https://github.com/AbdullahAlimam/Arabic-Support-for-Unity-UI
+Snaps Prototype | Office : https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490
+Seven Segment Font: https://www.dafont.com/seven-segment.font
+Adam Warren Pro Font: https://www.1001fonts.com/adam-warren-pro-font.html
+Bomb 3D Model: https://sketchfab.com/3d-models/simple-c4-bomb-dacf9850fc6b4a03bc58ca820ad1d950
+Torn Paper Image: https://www.seekpng.com/ipng/u2q8w7o0o0w7o0y3_torn-notebook-paper-png-folha-de-papel-rasgado/
+Low-Poly Office: https://assetstore.unity.com/packages/3d/characters/low-poly-office-pack-characters-props-119386
+School Assets: https://assetstore.unity.com/packages/3d/environments/school-assets-146253
+Yughues Free Wooden Floor Materials: https://assetstore.unity.com/packages/2d/textures-materials/wood/yughues-free-wooden-floor-materials-13213
